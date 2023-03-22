@@ -14,7 +14,7 @@ rdiscount:
 BASE_PATH : http://silvaxiang.github.io/
 
 # Website title.
-title : talk2ankan<small>Introvert Geek Diaries</small>
+title : Silva's Blog <small>Everything About Systems</small>
 
 # label listing. [create labels for category in folder `_label`]
 # social listing. [create labels for social in folder `_label`]
@@ -35,16 +35,16 @@ permalink: /:title
 ###########################
 author:
 # Info
-  name: Ankan Biswas
-  role: Computer Programmer
+  name: SilvaXiang
+  role: Atypical Programmer
   email: meliodus@tutanota.com
-  image: images/ankan.png
+  # image: images/ankan.png
 # Social
   github: meliodus
-  twitter: talk2ankan
-  facebook: talk2ankan
-  soundcloud: meliodus
-  reddit: talk2ankan
+  # twitter: talk2ankan
+  # facebook: talk2ankan
+  # soundcloud: meliodus
+  # reddit: talk2ankan
 #  About
   about: "Salutation, this is my-space my-world. I dream , i hallucinate, i am curious and ambitious."
 # copyright
