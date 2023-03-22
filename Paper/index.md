@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Informative | Tutorials and News
+title: Paper Reading
 ---
 
-<h1>Informative</h1>
+<h1>Paper Reading</h1>
 <hr/>
 
 {% for category in site.categories %}
-{% if category[0] == "informative" %}
+{% if category[0] == "Paper" %}
     {% for posts in category %}
     {% for post in posts %}
 {% if post.title %}
