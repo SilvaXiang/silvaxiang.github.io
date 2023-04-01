@@ -7,7 +7,7 @@ title: Code {hacks} | If code is Your Thing
 <hr/>
 
 {% for category in site.categories %}
-{% if category[0] == "hacks" %}
+{% if category[0] == "Algorithm" %}
     {% for posts in category %}
     {% for post in posts %}
 {% if post.title %}

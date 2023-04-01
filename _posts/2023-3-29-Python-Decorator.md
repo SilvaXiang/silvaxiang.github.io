@@ -48,3 +48,6 @@ def compute2():
 ```
 
 Python Decorator的本质即为在原先的函数执行栈外面再包一层，类似于包洋葱的方式，多重的函数装饰器也是如此。因此执行的时候也是从洋葱的一面切到另外一面，即可快速的得出执行的结果。
+![](https://raw.githubusercontent.com/SilvaXiang/picture/master/img/20230329205130.png)
+
+图片From zhihu https://zhuanlan.zhihu.com/p/45458873
